@@ -1,0 +1,62 @@
+body{
+background-size: contain;
+background-color: rgb(247, 146, 52);
+}
+
+h1 {
+    color:rgb(57, 57, 224);
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.title span{
+    color: rgb(255, 230, 8);
+    
+}
+
+.medialinks{
+    font-size:35px;
+    text-align: center;
+    margin-top: -4%;
+    letter-spacing: 0.5cm;
+
+}
+
+.links{
+    text-align: right;
+    margin-top: -4%;
+    font-size: 35px;
+   
+}
+
+.links a{
+color: black;
+font-family: sans-serif;
+text-decoration: none;
+}
+
+
+p {
+font-size: larger;
+direction: rtl;
+font-family:  "Cairo", sans-serif;
+}
+
+h2{
+  font-family: "Cairo", sans-serif;
+  text-align: right;
+  font-size: xx-large;
+  direction: rtl;
+}
+
+.image a{
+font-family: "Cairo", sans-serif;
+color: black;
+direction: rtl;
+text-decoration: none;
+
+}
+
+#media-img{
+   text-align: right;
+}
